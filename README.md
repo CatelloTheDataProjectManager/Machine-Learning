@@ -1,5 +1,7 @@
 # Machine Learning 🤖
 
+In real life, I was led to create and generate forecasts through modeling, as well as analyze sentiments and recurring themes in messages between customers and Customer Success Managers.
+
 ## Data Mining 📊
 
 **Data Preprocessing**: Handling missing values, encoding, standardization, correlation matrix analysis, identifying significant variables, feature importance, and modeling.
