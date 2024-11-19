@@ -1,6 +1,6 @@
 # Machine Learning 🤖
 
-In real life, I was led to create and generate forecasts through modeling, as well as analyze sentiments and recurring themes in messages between customers and Customer Success Managers.
+In real life, I was led to create and generate forecasts through modeling, as well as analyze sentiments and recurring themes in messages between customers and customer service.
 
 ## Data Mining 📊
 
