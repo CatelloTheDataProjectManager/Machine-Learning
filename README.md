@@ -36,4 +36,5 @@ In real life, I was led to create and generate revenue forecasts through modelin
 
 [Classification and Text Mining Techniques for Social Media Reviews](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Classification%20and%20Text%20Mining%20Techniques%20for%20Social%20Media%20Reviews.ipynb)
 
+![Word Cloud](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Word_cloud.png)
 
