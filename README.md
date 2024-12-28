@@ -38,3 +38,14 @@ In real life, I was led to create and generate revenue forecasts through modelin
 
 ![Word Cloud](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Word_cloud.png)
 
+## NLP Treatments in Amazon Cloud with SageMaker
+
+<img src="https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/AmazonSageMaker.png" alt="Amazon SageMaker" width="200"/>
+
+All the Natural Language Processing (NLP) treatments presented in this repository were conducted using Amazon SageMaker, a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly. SageMaker offers a robust environment for scalable and efficient NLP model development, making it an ideal choice for handling large datasets and complex models.
+
+For more detailed insights into my work with Large Language Models (LLM) and NLP using Amazon SageMaker, I invite you to explore my dedicated project:
+
+[LLM and NLP Projects with Amazon SageMaker](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/README.md)
+
+
