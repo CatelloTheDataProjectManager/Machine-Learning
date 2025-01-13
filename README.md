@@ -2,7 +2,7 @@
 
 In real life, I was led to create and generate revenue forecasts through modeling. Additionally, I analyzed sentiments and recurring themes in messages between customers and customer service representatives.
 
-## Data Mining 📊
+## Part 1: Data Mining 📊
 
 **Data Preprocessing**: Handling missing values, encoding, standardization, correlation matrix analysis, identifying significant variables, feature importance, and modeling.
 
@@ -38,3 +38,19 @@ In real life, I was led to create and generate revenue forecasts through modelin
 
 ![Word Cloud](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Word_cloud.png)
 
+## Part 2: Recommendation System
+
+### Project Overview
+
+The Movie Recommendation System provides personalized movie suggestions based on user preferences and past interactions. Utilizing collaborative and content-based filtering, along with a hybrid approach, the system analyzes user behavior and movie characteristics to deliver tailored recommendations. Evaluation metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) ensure the performance of different algorithms. The system effectively handles data sparsity and ensures diverse genre recommendations, enhancing user experience.
+
+#### Key Features
+
+- **Collaborative Filtering**: Recommends movies based on user-item interaction data.
+- **Content-Based Filtering**: Analyzes movie content and characteristics.
+- **Hybrid Approach**: Combines both methods for improved accuracy.
+- **Evaluation Metrics**: Uses MAE and RMSE for performance assessment.
+
+#### Explore the Notebook
+
+For a detailed walkthrough of the implementation and results, check out the [Movie Recommendation System Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8me%20de%20Recommandation%20de%20Films.ipynb).
