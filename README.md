@@ -55,7 +55,7 @@ The Movie Recommendation System provides personalized movie suggestions based on
 
 For a detailed walkthrough of the implementations and results, check out the following notebooks:
 
-1. [Movie Recommendation System Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8me%20de%20Recommandation%20de%20Films.ipynb)
+1. [Cosine, Pearson, Item-Based, Cold Start Movie Recommendation System Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8me%20de%20Recommandation%20de%20Films.ipynb)
 2. [Content-Based News Article Recommendation System Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8me%20de%20Recommandation%20d'Articles%20de%20Presse%20Bas%C3%A9%20sur%20%20le%20Contenu.ipynb)
-3. [Advanced Recommendation Systems Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8mes%20de%20Recommandation%20Avanc%C3%A9s.ipynb)
+3. [(SVD) Based Recommendation System on Ratings Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8mes%20de%20Recommandation%20Avanc%C3%A9s.ipynb)
 
