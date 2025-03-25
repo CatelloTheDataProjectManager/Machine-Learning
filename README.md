@@ -59,3 +59,65 @@ For a detailed walkthrough of the implementations and results, check out the fol
 2. [Content-Based News Article Recommendation System Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8me%20de%20Recommandation%20d'Articles%20de%20Presse%20Bas%C3%A9%20sur%20%20le%20Contenu.ipynb)
 3. [(SVD) Based Recommendation System on Ratings Notebook](https://github.com/CatelloTheDataProjectManager/Machine-Learning/blob/main/Syst%C3%A8mes%20de%20Recommandation%20Avanc%C3%A9s.ipynb)
 
+---
+
+# Machine Learning (ML) for Natural Language Processing (NLP) Projects with Amazon SageMaker
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/aws-academy-graduate-aws-academy-machine-learning-for-natural-language-processing.png" alt="AWS Certificate" style="height: 300px; object-fit: contain;"/>
+        </td>
+        <td>
+            <img src="https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Amazon%20SageMaker.jpg" alt="Amazon SageMaker" style="height: 300px; object-fit: contain;"/>
+        </td>
+    </tr>
+</table>
+
+
+
+Welcome to my GitHub repository, presenting my skills and projects on Large Language Models (LLM) and Natural Language Processing (NLP) using Amazon SageMaker. This repository is the result of an **AWS certification** and includes Jupyter notebooks that demonstrate various techniques and applications in these fascinating fields.
+
+---
+
+### 1. Natural Language Processing with Amazon SageMaker
+This notebook covers the basics of natural language processing using Amazon SageMaker. It includes data preprocessing, model training, and evaluation.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Natural%20Language%20Processing%20with%20Amazon%20SageMaker.ipynb)
+
+### 2. Web Scraping - Extract Text and Images
+This notebook demonstrates how to perform web scraping to extract text and images from websites, including data extraction and preprocessing techniques.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Web%20Scrapping%20-%20Extract%20Text%20and%20Images.ipynb)
+
+### 3. Text Processing
+This notebook focuses on various text processing techniques like tokenization, stemming, and lemmatization to prepare data for NLP tasks.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Text%20Processing.ipynb)
+
+### 4. Encoding and Vectorizing Text
+This notebook explains different methods for encoding and vectorizing text data, such as TF-IDF, word embeddings, and sentence embeddings, with examples and best practices.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Encoding%20and%20Vectorizing%20Text.ipynb)
+
+### 5. Implementing Information Extraction
+This notebook demonstrates techniques for implementing information extraction using Amazon SageMaker and Spacy.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Information%20Extraction.ipynb)
+
+### 6. Implementing Sentiment Analysis
+This notebook covers the implementation of sentiment analysis using BlazingText, Amazon Comprehend, and hyperparameter tuning.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Sentiment%20Analysis.ipynb)
+
+### 7. Topic Modeling with Latent Dirichlet Allocation (LDA)
+Explore the implementation of a probabilistic model for topic modeling using the LDA algorithm.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Modeling%20with%20Amazon%20Comprehend.ipynb)
+
+### 8. Topic Modeling with Neural Topic Model (NTM)
+This notebook demonstrates a neural network-based model for topic extraction using Amazon SageMaker.
+
+[View Notebook](https://github.com/CatelloTheDataProjectManager/LLM-SageMaker/blob/main/Implementing%20Topic%20Extraction%20with%20NTM.ipynb)
+
+
